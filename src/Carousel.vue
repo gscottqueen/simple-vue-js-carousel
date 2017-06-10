@@ -1,4 +1,4 @@
-<!-- ourtemplate -->
+<!-- our template -->
 <template>
   <div id="hero">
       <carousel :autoplay="true" :navigationEnabled="true" :navigationClickTargetSize="20" :perPage="1">
@@ -33,10 +33,10 @@
   </div>
 </template>
 
-<!-- ourscripts -->
+<!-- our script -->
 <script></script>
 
-<!-- ourstyles -->
+<!-- our styles -->
 <style lang="scss">
 
 #hero {
@@ -57,5 +57,4 @@
 .VueCarousel-navigation-button {
   font-size: 30px;
 }
-
 </style>
